@@ -1,0 +1,3 @@
+login=test@facebook.com
+pass=ddhwGmfx
+mode=list

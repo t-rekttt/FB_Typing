@@ -1,0 +1,3 @@
+login=<your_email>
+pass=<your_password>
+mode=<list|full>
